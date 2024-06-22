@@ -1,0 +1,10 @@
+pandas==1.4.0        # Data manipulation and analysis
+scikit-learn==0.25.4 # Machine learning library for cosine similarity and vectorization
+nltk==3.7.2          # Natural Language Toolkit for text preprocessing
+streamlit==1.8.0     # Web application framework for building interactive data apps
+numpy==1.22.2        # Fundamental package for scientific computing with Python (required by pandas and scikit-learn)
+scipy==1.8.0         # Scientific computing library (required by scikit-learn)
+joblib==1.0.2        # Lightweight pipelining in Python (required by scikit-learn)
+click==8.0.4         # Command line interface creation kit (required by streamlit)
+pydeck==0.10.0       # WebGL-powered framework for visual exploratory data analysis (required by streamlit)
+watchdog==2.1.6      # Python API library and shell utilities to monitor file system events (required by streamlit)
